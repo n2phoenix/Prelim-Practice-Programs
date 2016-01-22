@@ -1,0 +1,4 @@
+class practicalq32012
+{
+    
+}
